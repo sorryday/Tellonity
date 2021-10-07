@@ -2,6 +2,8 @@
 
 Tello EDU Drone 다중제어 프로젝트
 
+사용시 폴더 name을 fragmentuiprac2로 변경!!
+
 ![tello소개](https://user-images.githubusercontent.com/49806698/136413640-a3e7715a-bb56-4af5-8ed7-73b27e0811d5.PNG)
 ![개발동기](https://user-images.githubusercontent.com/49806698/136413651-59bdaf9f-5779-447d-9a49-ec36e1560ff3.PNG)
 ![세부구성1](https://user-images.githubusercontent.com/49806698/136413660-bb1f6840-cc9f-4d6b-a0c6-c0b87ba89f5e.PNG)
