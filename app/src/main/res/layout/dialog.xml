@@ -1,0 +1,128 @@
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="현재 드론 상태" />
+
+        <TextView
+            android:id="@+id/stext1"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="배터리 상태 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/stext2"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="최고 온도 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext3"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="최저 온도 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext4"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="비행 시간 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext5"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="비행 높이 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext6"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="비행 거리 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext7"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="축별 속도 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/stext8"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="기압 높이 : "
+            android:padding="16dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/custom"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+</ScrollView>

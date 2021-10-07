@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/help"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:src="@drawable/help" />
+    <ImageView
+        android:id="@+id/DroneImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/drone1" />
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text="Drone1"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/command"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/command" />
+
+            <ImageView
+                android:id="@+id/takeoff"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/takeoff" />
+
+            <ImageView
+                android:id="@+id/land"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/land" />
+
+            <ImageView
+                android:id="@+id/status"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/status" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/flipl"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/flipl" />
+
+            <ImageView
+                android:id="@+id/flipr"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/flipr" />
+
+            <ImageView
+                android:id="@+id/flipf"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/flipf" />
+
+            <ImageView
+                android:id="@+id/flipb"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/flipb" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/forward"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/forward"
+                android:layout_weight="2"/>
+            <ImageView
+                android:id="@+id/up"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/up"
+                android:layout_weight="2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/left"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/left"
+                android:layout_weight="1"
+                />
+            <ImageView
+                android:id="@+id/right"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/right"
+                android:layout_weight="1"/>
+            <ImageView
+                android:id="@+id/ccw"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ccw"
+                android:layout_weight="1"/>
+            <ImageView
+                android:id="@+id/cw"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/cw"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/back"
+                android:layout_weight="2"
+                />
+            <ImageView
+                android:id="@+id/down"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/down"
+                android:layout_weight="2"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
