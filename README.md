@@ -10,7 +10,7 @@
 Tello 드론을 보다 효율성 있게 Controll하기 위해 이 프로젝트를 기획했습니다.
 
 ## 1. 개발동기
-https://user-images.githubusercontent.com/49806698/136413651-59bdaf9f-5779-447d-9a49-ec36e1560ff3.PNG
+(https://user-images.githubusercontent.com/49806698/136413651-59bdaf9f-5779-447d-9a49-ec36e1560ff3.PNG)
 
 
 ## 2. Tello 드론 소개
