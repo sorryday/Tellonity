@@ -1,4 +1,5 @@
 # Tellonity Project
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # DJU의 Tello EDU Drone 다중제어 프로젝트
 
 #### Project nickname : Tellonity
