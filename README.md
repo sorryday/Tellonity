@@ -13,29 +13,26 @@ Tello 드론을 보다 효율성 있게 Controll하기 위해 이 프로젝트�
 ![136413651-59bdaf9f-5779-447d-9a49-ec36e1560ff3](https://user-images.githubusercontent.com/49806698/150674028-d24d8446-d2da-467e-9f08-29cf371a2fdb.png)
 
 
-
-## 2. Tello 드론 소개
-https://user-images.githubusercontent.com/49806698/136413640-a3e7715a-bb56-4af5-8ed7-73b27e0811d5.PNG
+## 2. Tello EDU 드론 소개
+![2](https://user-images.githubusercontent.com/49806698/150674097-5ac3d0fd-605d-4fa9-ab13-56931f3788d4.png)
 
 
 ## 3. Application 세부 구성 1
-https://user-images.githubusercontent.com/49806698/136413660-bb1f6840-cc9f-4d6b-a0c6-c0b87ba89f5e.PNG
+![3](https://user-images.githubusercontent.com/49806698/150674102-4eb242e2-3d47-4551-bb4c-509e259babf5.png)
 
 
 ## 4. Application 세부 구성 2
-https://user-images.githubusercontent.com/49806698/136413666-6d0ba58d-baeb-4467-a83f-dbb20b737617.PNG
+![4](https://user-images.githubusercontent.com/49806698/150674110-722f628a-722c-4d2e-ae92-d64ef9210665.png)
+
+![5](https://user-images.githubusercontent.com/49806698/150674124-ee8bf817-3881-43ce-a527-41de1c2da1ee.png)
 
 
-## 5. Application 세부 구성 3
-https://user-images.githubusercontent.com/49806698/136413671-33485fb1-f5e1-4b41-944a-06b0de964232.PNG
+## 5. Application 사용법 1
+![6](https://user-images.githubusercontent.com/49806698/150674133-cd480bbb-4e2d-4d77-80b9-28677ec33c19.png)
 
 
-## 6. Application 세부 구성 4
-https://user-images.githubusercontent.com/49806698/136413674-f34b48ba-36fd-474c-a17e-241fc5a3c556.PNG
-
-
-## 7. Application 세부 구성 5
-https://user-images.githubusercontent.com/49806698/136413684-c65a9fd9-7f46-411d-81d3-26075c3113c3.PNG
+## 6. Application 사용법 2
+![7](https://user-images.githubusercontent.com/49806698/150674146-e51115d1-cc8e-4797-b00a-38982292b25d.png)
 
 
 ## Environment
