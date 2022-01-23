@@ -5,9 +5,9 @@
 #### Project execution period : 2020.10.26 ~ 2020.11.25
 -----------------------
 ## Description
-기존의 Tello 드론 조종 앱은 스마트폰과 Tello가 1:1로 연결되어 Controll이 가능했습니다. 
-그러나 스마트폰 하나로 여러개의 Tello 드론을 연결하는 Application은 없었습니다.
-Tello 드론을 보다 효율성 있게 Controll하기 위해 이 프로젝트를 기획했습니다.
+##### 기존의 Tello 드론 조종 앱은 스마트폰과 Tello가 1:1로 연결되어 Controll이 가능했습니다. 
+##### 그러나 스마트폰 하나로 여러개의 Tello 드론을 연결하는 Application은 없었습니다.
+##### Tello 드론을 보다 효율성 있게 Controll하기 위해 이 프로젝트를 기획했습니다.
 
 ## 1. 개발동기
 ![136413651-59bdaf9f-5779-447d-9a49-ec36e1560ff3](https://user-images.githubusercontent.com/49806698/150674028-d24d8446-d2da-467e-9f08-29cf371a2fdb.png)
