@@ -1,5 +1,5 @@
 # Tellonity Project ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-# DJU의 Tello EDU Drone 다중제어 프로젝트
+# DJI의 Tello EDU Drone 다중제어 프로젝트
 
 #### Project nickname : Tellonity
 #### Project execution period : 2020.10.26 ~ 2020.11.25
